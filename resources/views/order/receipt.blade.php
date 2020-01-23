@@ -11,12 +11,9 @@
             .nota1 {
                 border-bottom: 2px dashed;
             }
-            .page-break {
-    page-break-after: always;
-}
-@page{
-  margin: 2em 3.5em;
-}
+    @page-break-after:{
+                margin: 2em 3.5em;
+                }
     </style>
 
 </head>
